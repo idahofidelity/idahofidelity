@@ -10,7 +10,7 @@ Currently ~70 credits into Computer Science / Electrical Engineering at North Id
 
 #### AI / Infrastructure
 
-- **NIVI Hub** — self-hosted multi-agent AI infrastructure that coordinates the projects below. Agent access via Telegram and Discord. Architecture write-up coming (repo is private while credentials and session state are stripped).
+- **[NIVI Hub](https://github.com/idahofidelity/nivi-hub)** — self-hosted multi-agent AI infrastructure that coordinates the projects below. Agent access via Telegram and Discord. Public architecture and evaluation write-up; live stack stays private.
 
 #### Civic Tech (Idaho Fidelity Foundation)
 
