@@ -1,9 +1,3 @@
-<!--
-GitHub profile README. Already live at:
-https://github.com/idahofidelity/idahofidelity
-Edit this file, then replace README.md in that repo.
--->
-
 ### Sean Evans — Post Falls, ID
 
 Self-hosted AI systems, civic-data platforms, and production web tools. I design multi-agent setups, evaluate model output for hallucination and failure modes, and ship public datasets with human review in the loop.
@@ -16,7 +10,7 @@ Currently ~70 credits into Computer Science / Electrical Engineering at North Id
 
 #### AI / Infrastructure
 
-- **NIVI Hub** — self-hosted multi-agent AI infrastructure that coordinates the projects below. Agent access via Telegram and Discord. Architecture write-up coming (repo is private while I strip credentials and session state).
+- **NIVI Hub** — self-hosted multi-agent AI infrastructure that coordinates the projects below. Agent access via Telegram and Discord. Architecture write-up coming (repo is private while credentials and session state are stripped).
 
 #### Civic Tech (Idaho Fidelity Foundation)
 
